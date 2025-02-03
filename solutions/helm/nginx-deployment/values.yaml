@@ -1,6 +1,5 @@
 namespace:
-  name: demo
- 
+  name: outring-nginx
 service:
   port: 8111
   type: ClusterIP
